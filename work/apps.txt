@@ -1,0 +1,107 @@
+Ableton Live 10 Suite.app
+Adobe Acrobat DC
+Adobe After Effects 2021
+Adobe Animate 2021
+Adobe Creative Cloud
+Adobe Dimension
+Adobe Illustrator 2021
+Adobe InDesign 2021
+Adobe Media Encoder 2021
+Adobe Photoshop 2021
+Adobe XD
+Alfred 4.app
+Anaconda-Navigator.app
+AppCleaner.app
+Arduino.app
+Atom.app
+Audacity.app
+Bartender 4.app
+Bitwarden.app
+Blender.app
+Brave Browser.app
+Cisco
+Cisco AMP for Endpoints
+ColorSlurp.app
+Discord.app
+Docker.app
+Dropzone 4.app
+Epic Games Launcher.app
+Fiery Driver Updater.app
+FileZilla.app
+Firefox Developer Edition.app
+Firefox.app
+Flycut.app
+Fritzing.app
+GarageBand.app
+GitHub Desktop.app
+Google Chrome Canary.app
+Google Chrome.app
+HandBrake.app
+IINA.app
+ImageOptim.app
+Inspect.app
+Itsycal.app
+Keynote.app
+LastPass.app
+Logic Pro X.app
+Maxon Cinema 4D R21
+Maxon Cinema 4D R22
+Melodics.app
+Microsoft Edge.app
+Microsoft Excel.app
+Microsoft OneNote.app
+Microsoft Outlook.app
+Microsoft PowerPoint.app
+Microsoft Word.app
+MuseScore 3.app
+Numbers.app
+OP-Z.app
+OneDrive.app
+OverSight.app
+PacketSender.app
+Pages.app
+Patterns.app
+Phidget Control Panel.app
+Pixelator.app
+Postman.app
+Processing.app
+PyCharm CE with Anaconda plugin.app
+PyCharm CE.app
+Python 3.8
+Raspberry Pi Imager.app
+Rectangle.app
+Safari.app
+Sequel Pro.app
+Sketch.app
+Slack.app
+Sonic Pi.app
+Sonos.app
+Spline.app
+Spotify.app
+Sublime Merge.app
+Sublime Text.app
+TIDAL.app
+TeamViewer.app
+The Unarchiver.app
+TinkerTool.app
+TouchDesigner.app
+Unity
+Unity Hub.app
+Utilities
+VLC.app
+VirtualBox.app
+Visual Studio Code - Insiders.app
+Visual Studio Code.app
+Visual Studio.app
+WT-InitMaker.app
+Wrike for Mac.app
+Xamarin Profiler.app
+Xcode.appdownload
+Zeplin.app
+balenaEtcher.app
+fontplop.app
+iMovie.app
+iTerm.app
+iWork '09
+massCode.app
+zoom.us.app
